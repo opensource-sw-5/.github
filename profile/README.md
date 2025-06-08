@@ -54,7 +54,7 @@
 
 ## 5️⃣ 시스템 아키텍처
 
-![image](https://github.com/user-attachments/assets/bdf99b8c-f83a-45e7-b685-525758e7d0f4)
+![image](https://github.com/user-attachments/assets/a72f3617-b73d-44b9-881f-ade2c53599e8)
 
 </br>
 
