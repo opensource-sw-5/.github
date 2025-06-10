@@ -2,9 +2,7 @@
   <h1>👤 Vata</h1>
   <p>
     <strong>나의 개성을 반영한 AI 프로필 사진 만들기</strong><br><br>
-    <strong>🛸 배포: <a href="https://vata-fe.vercel.app/" target="_blank">Vata 바로가기</a></strong><br><br>
-    <strong>🟦 프론트 레포지토리: <a href="https://github.com/opensource-sw-5/Vata-FE" target="_blank">Vata 바로가기</a></strong>
-    <strong>🟩 백엔드 레포지토리: <a href="https://github.com/opensource-sw-5/Vata-BE" target="_blank">Vata 바로가기</a></strong>
+    <strong>🛸 배포: <a href="https://vata-fe.vercel.app/" target="_blank">Vata 바로가기</a></strong>
   </p>
 </div>
 
