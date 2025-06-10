@@ -76,7 +76,7 @@ Stable Diffusion 기반의 이미지 생성 모델을 활용하여 사용자가 
 
 ## 6️⃣ UI / UX
 
-![image](https://github.com/user-attachments/assets/706b9099-2f38-432c-8a5a-b44b32a4bb73)
+![image](https://github.com/user-attachments/assets/47827c9e-2afb-4fb2-be43-872ef58e88ba)
 ![image](https://github.com/user-attachments/assets/a75693e5-d838-4233-92fd-722a244085ad)
 ![image](https://github.com/user-attachments/assets/c68af118-fe74-4b5c-9774-18fffbf889c7)
 ![image](https://github.com/user-attachments/assets/d1ffa048-0ca6-488d-9bb7-653b5ed5f72d)
