@@ -25,7 +25,7 @@
 
 | _이름_ | 김준형 | 문형주 | 오주성 |
 |:-----:|:----:|:-----:|:----:|
-| ___역할___ | BE | BE | FE / AI |
+| ___역할___ | BE | BE | FE |
 | ___Github___ | <a href="https://github.com/JHZLO"><img src="https://avatars.githubusercontent.com/u/105791673?v=4" width="64" height="64"></a> | <a href="https://github.com/moon4528"><img src="https://avatars.githubusercontent.com/u/166115965?v=4" width="64" height="64"></a> | <a href="https://github.com/jsgo53"><img src="http://avatars.githubusercontent.com/u/198019299?v=4" width="64" height="64"></a> |
 
 </br>
